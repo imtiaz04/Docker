@@ -7,7 +7,7 @@
 
 
 
-shutting down containers
+shutting down containers with docker-compose down
 
 
 
