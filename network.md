@@ -19,6 +19,13 @@ by default networks
 for default network we need to mention ports
 ![image](https://github.com/imtiaz04/Docker/assets/85178565/9990a531-594b-4939-b78d-89d81a3697fb)
 
+for host network no need of ports application will run
+![image](https://github.com/imtiaz04/Docker/assets/85178565/55b63c7c-bcaa-41e5-b516-9102920fcab1)
+
+![image](https://github.com/imtiaz04/Docker/assets/85178565/916efe02-c0a8-42ac-960a-5472e6d2fb72)
+
+
+
 
 
 
