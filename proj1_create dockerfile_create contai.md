@@ -1,5 +1,5 @@
 steps:
-crate folder with name projects
+create folder with name projects
 clone app with out dockerfile
 ![image](https://user-images.githubusercontent.com/85178565/230743517-7a1a7b3c-64cf-41da-ab49-5d228ff6c528.png)
 
